@@ -1,7 +1,6 @@
-var Engine = Matter.Engine,
-  World = Matter.World,
-  Events = Matter.Events,
-  Bodies = Matter.Bodies;
+const Engine = Matter.Engine;
+ const World = Matter.World;
+  const Bodies = Matter.Bodies;
  
 var particles = [];
 var plinkos = [];
